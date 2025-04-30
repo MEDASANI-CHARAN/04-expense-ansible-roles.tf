@@ -19,5 +19,5 @@
   tags:
   - deployment
   ansible.builtin.get_url:
-    url: http://{{nexus_url}}:8081/repository/backend/com/expense/backend/{{appVersion}}/backend-{{appVersion}}.zip
+    url: "http://{{nexus_url}}:8081/repository/{{component}}/com/expense/{{component}}/{{appVersion}}/{{component}}-{{appVersion}}.zip"
     dest: /tmp/backend.zip

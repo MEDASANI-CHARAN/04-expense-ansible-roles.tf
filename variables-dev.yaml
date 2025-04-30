@@ -2,3 +2,4 @@ login_host: db-dev.daws78s.xyz
 PASSWORD: ExpenseApp1
 HOST_NAME: db-dev.daws78s.xyz
 host: backend.app-dev.daws78s.xyz
+nexus_url: jenkins-nexus.daws2025.online

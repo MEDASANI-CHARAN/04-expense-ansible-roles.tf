@@ -37,10 +37,10 @@
 #     dest: /app
 #     remote_src: yes
 
-- name: Install npm dependencies
-  community.general.npm:
-    name: backend
-    path: /app/npm install
+# - name: Install npm dependencies
+#   community.general.npm:
+#     name: backend
+#     path: /app/npm install
 
 # - name: Install npm dependencies
 #   ansible.builtin.command: npm install
