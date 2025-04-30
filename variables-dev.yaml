@@ -1,5 +1,5 @@
-login_host: db-dev.daws78s.xyz
+login_host: db-dev.daws2025.online
 PASSWORD: ExpenseApp1
-HOST_NAME: db-dev.daws78s.xyz
-host: backend.app-dev.daws78s.xyz
+HOST_NAME: db-dev.daws2025.online
+host: backend.app-dev.daws2025.online
 nexus_url: jenkins-nexus.daws2025.online
